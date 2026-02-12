@@ -16,11 +16,17 @@
 ## 🚀 Features
 
 🎮 Two-player local gameplay (X vs O)
+
 🔄 Automatic turn switching
+
 🏆 Win detection logic
+
 🤝 Draw detection
+
 🔁 Game reset functionality
+
 📱 Fully responsive layout
+
 ✨ Visual feedback for winning combination
 
 ---
